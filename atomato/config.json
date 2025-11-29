@@ -1,0 +1,20 @@
+{
+  "name": "Atomato",
+  "version": "0.0.9",
+  "slug": "atomato",
+  "description": "Smooth Home Assistant Management",
+  "arch": ["amd64", "aarch64", "armhf", "armv7", "i386"],
+  "image": "ghcr.io/atomato-app/atomato-ha-addon-{arch}",
+  "startup": "services",
+  "init": false,
+  "boot": "auto",
+  "hassio_api": true,
+  "options": {
+    "aliens": false,
+    "beer": true
+  },
+  "schema": {
+    "aliens": "bool",
+    "beer": "bool"
+  }
+}
