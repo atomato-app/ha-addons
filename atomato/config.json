@@ -9,16 +9,17 @@
     "armhf",
     "armv7"
   ],
-  "image": "ghcr.io/atomato-app/atomato-ha-addon",
   "startup": "services",
   "init": false,
   "boot": "auto",
   "hassio_api": true,
+  "hassio_role": "manager",
   "homeassistant_api": true,
   "options": {
     "beer": true
   },
   "schema": {
     "beer": "bool"
-  }
+  },
+  "image": "ghcr.io/atomato-app/atomato-ha-addon"
 }
