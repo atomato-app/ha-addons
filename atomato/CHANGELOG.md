@@ -1,3 +1,8 @@
+## 0.1.8 — 2026-04-25
+
+* The long polling back-off implemented
+* Server subdomain changed
+
 ## 0.1.7 — 2026-03-31
 
 This release sets up the changelog process for Atomato's app :)
