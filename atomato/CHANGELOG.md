@@ -1,3 +1,7 @@
+## 0.2.1 — 2026-06-15
+
+This release adds support for serving an atomato's dashboard from the HA app.
+
 ## 0.1.8 — 2026-04-25
 
 * The long polling back-off implemented
