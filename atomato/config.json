@@ -18,10 +18,10 @@
   "hassio_role": "admin",
   "homeassistant_api": true,
   "options": {
-    "beer": true,
+    "beer": true
   },
   "schema": {
-    "beer": "bool",
+    "beer": "bool"
   },
   "image": "ghcr.io/atomato-app/atomato-ha-addon"
 }
