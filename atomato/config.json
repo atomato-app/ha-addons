@@ -12,14 +12,16 @@
   "startup": "services",
   "init": false,
   "boot": "auto",
+  "ingress": true,
+  "ingress_port": 8470,
   "hassio_api": true,
   "hassio_role": "admin",
   "homeassistant_api": true,
   "options": {
-    "beer": true
+    "beer": true,
   },
   "schema": {
-    "beer": "bool"
+    "beer": "bool",
   },
   "image": "ghcr.io/atomato-app/atomato-ha-addon"
 }
