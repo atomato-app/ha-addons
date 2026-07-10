@@ -1,3 +1,7 @@
+## 0.2.2 — 2026-07-10
+
+We have been building an simplified mobile app, these changes will support the mobile app interface.
+
 ## 0.2.1 — 2026-06-15
 
 This release adds support for serving an atomato's dashboard from the HA app.
