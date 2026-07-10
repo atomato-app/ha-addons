@@ -1,3 +1,7 @@
+## 0.2.4 — 2026-07-11
+
+Dashboard elements and edit mode improvements.
+
 ## 0.2.2 — 2026-07-10
 
 We have been building an simplified mobile app, these changes will support the mobile app interface.
