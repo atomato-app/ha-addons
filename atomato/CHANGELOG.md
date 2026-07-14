@@ -1,3 +1,7 @@
+## 0.2.6 — 2026-07-14
+
+Rework of nightly backups and uploads
+
 ## 0.2.5 — 2026-07-14
 
 Exposing dashboard and API locally for the mobile app.
