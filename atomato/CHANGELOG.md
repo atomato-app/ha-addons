@@ -1,3 +1,7 @@
+## 0.2.5 — 2026-07-14
+
+Exposing dashboard and API locally for the mobile app.
+
 ## 0.2.4 — 2026-07-11
 
 Dashboard elements and edit mode improvements.
