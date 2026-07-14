@@ -14,6 +14,12 @@
   "boot": "auto",
   "ingress": true,
   "ingress_port": 8470,
+  "ports": {
+    "8470/tcp": 8470
+  },
+  "ports_description": {
+    "8470/tcp": "Atomato dashboard API (LAN / mobile app)"
+  },
   "hassio_api": true,
   "hassio_role": "admin",
   "homeassistant_api": true,
