@@ -1,3 +1,7 @@
+## 0.2.7 — 2026-07-15
+
+Remote dashboard loading fix
+
 ## 0.2.6 — 2026-07-14
 
 Rework of nightly backups and uploads
