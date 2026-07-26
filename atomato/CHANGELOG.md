@@ -1,3 +1,9 @@
+## 0.2.8 — 2026-07-26
+
+- Dark/light mode
+- Historical views for sensors
+- Editing improved
+
 ## 0.2.7 — 2026-07-15
 
 Remote dashboard loading fix
