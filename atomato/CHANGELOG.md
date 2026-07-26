@@ -1,5 +1,6 @@
 ## 0.2.8 — 2026-07-26
 
+Dashboard improvements:
 - Dark/light mode
 - Historical views for sensors
 - Editing improved
