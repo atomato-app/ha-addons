@@ -1,3 +1,9 @@
+## 0.3.0 — 2026-07-28
+
+- Websocket connections are now user-specific, HA history shows the actor
+- Maintenance view for batteries
+- Climate card and graph improvements
+
 ## 0.2.8 — 2026-07-26
 
 Dashboard improvements:
