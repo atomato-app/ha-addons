@@ -1,3 +1,7 @@
+## 0.3.1 — 2026-07-30
+
+Dashboard improvements
+
 ## 0.3.0 — 2026-07-28
 
 - Websocket connections are now user-specific, HA history shows the actor
