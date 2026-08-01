@@ -1,3 +1,8 @@
+## 0.4.0 — 2026-08-01
+
+* TLS on local dashboards as well to counter possible MITM
+* Views sharing implemented
+
 ## 0.3.1 — 2026-07-30
 
 Dashboard improvements
