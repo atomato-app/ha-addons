@@ -23,11 +23,16 @@
   "hassio_api": true,
   "hassio_role": "admin",
   "homeassistant_api": true,
+  "services": [
+    "mqtt:want"
+  ],
   "options": {
-    "beer": true
+    "beer": true,
+    "z2m_base_topic": "zigbee2mqtt"
   },
   "schema": {
-    "beer": "bool"
+    "beer": "bool",
+    "z2m_base_topic": "str?"
   },
   "image": "ghcr.io/atomato-app/atomato-ha-addon"
 }
