@@ -1,4 +1,4 @@
-## 0.4.1 — 2026-08-01
+## 0.4.1 — 2026-08-02
 
 * Onboarding flow handling
 * Revoking users implemented
