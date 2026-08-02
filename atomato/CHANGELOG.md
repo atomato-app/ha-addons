@@ -1,3 +1,8 @@
+## 0.4.2 — 2026-08-02
+
+* SAN-aware certs
+* Dashboard improvements
+
 ## 0.4.1 — 2026-08-02
 
 * Onboarding flow handling
