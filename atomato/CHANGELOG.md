@@ -1,3 +1,8 @@
+## 0.4.1 — 2026-08-01
+
+* Onboarding flow handling
+* Revoking users implemented
+
 ## 0.4.0 — 2026-08-01
 
 * TLS on local dashboards to counter possible MITM
