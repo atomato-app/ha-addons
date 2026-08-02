@@ -14,6 +14,7 @@
   "boot": "auto",
   "ingress": true,
   "ingress_port": 8471,
+  "panel_icon": "mdi:robot-happy",
   "ports": {
     "8470/tcp": 8470
   },
