@@ -1,3 +1,7 @@
+## 0.4.3 — 2026-08-03
+
+Dashboard improvements
+
 ## 0.4.2 — 2026-08-02
 
 * SAN-aware certs
