@@ -1,6 +1,6 @@
 ## 0.4.5 — 2026-08-31
 
-Dashbord improvements
+Dashboard improvements
 
 ## 0.4.4 — 2026-08-12
 
