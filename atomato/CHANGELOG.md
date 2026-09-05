@@ -1,3 +1,8 @@
+## 0.4.8 — 2026-09-05
+
+* Improvements on input helpers on dashboard
+* Special card for the sun ☀️
+
 ## 0.4.7 — 2026-09-03
 
 * Admin users have admin flag
