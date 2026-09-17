@@ -1,3 +1,7 @@
+## 0.4.9 — 2026-09-17
+
+Clean up local atomato backups
+
 ## 0.4.8 — 2026-09-05
 
 * Improvements on input helpers on dashboard
