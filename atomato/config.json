@@ -24,6 +24,22 @@
   "hassio_api": true,
   "hassio_role": "admin",
   "homeassistant_api": true,
+  "map": [
+    {
+      "type": "homeassistant_config",
+      "read_only": true,
+      "path": "/homeassistant"
+    },
+    {
+      "type": "all_addon_configs",
+      "read_only": false,
+      "path": "/addon_configs"
+    },
+    {
+      "type": "share",
+      "read_only": true
+    }
+  ],
   "services": [
     "mqtt:want"
   ],
