@@ -1,3 +1,9 @@
+## 0.5.0 — 2026-09-20
+
+* Include Zigbee devices IDs in backup
+* Dashboard editing improvements
+* Maintenance dashboard improvements
+
 ## 0.4.9 — 2026-09-17
 
 Clean up local atomato backups
