@@ -1,3 +1,8 @@
+## 0.5.1 — 2026-09-23
+
+* Slimmer backups
+* Fuzzy search for MCP
+
 ## 0.5.0 — 2026-09-20
 
 * Include Zigbee devices IDs in backup
