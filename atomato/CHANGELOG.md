@@ -1,3 +1,10 @@
+## 0.5.5 — 2026-09-29
+
+* Layout grid introduced
+* Elements reworked, height increased
+* Effects selection for lights
+* Improved graphs
+
 ## 0.5.1 — 2026-09-23
 
 * Slimmer backups
