@@ -1,3 +1,8 @@
+## 0.6.0 — 2026-09-29
+
+* Grid step change
+* Bottom sheet overlay for the app
+
 ## 0.5.6 — 2026-09-29
 
 * Customizable accent color
