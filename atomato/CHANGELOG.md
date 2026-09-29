@@ -1,3 +1,9 @@
+## 0.5.6 — 2026-09-29
+
+* Customizable accent color
+* State visibility of dashboard items
+* Locking function for dashboard actions
+
 ## 0.5.5 — 2026-09-29
 
 * Layout grid introduced
