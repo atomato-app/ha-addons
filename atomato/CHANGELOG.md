@@ -1,3 +1,8 @@
+## 0.6.2 — 2026-10-05
+
+* Estonian translations
+* Climate and light entity cards improved
+
 ## 0.6.1 — 2026-10-02
 
 * Improvements to support the mobile app views
