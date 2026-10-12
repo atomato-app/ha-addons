@@ -1,3 +1,8 @@
+## 0.7.0 — 2026-10-12
+
+* Dashboard improvements
+* Automations editing by MCP server
+
 ## 0.6.2 — 2026-10-05
 
 * Estonian translations
