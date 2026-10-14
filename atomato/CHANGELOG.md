@@ -1,3 +1,8 @@
+## 0.7.1 — 2026-10-14
+
+* Climate element improvements
+* Dashboard editing improvements
+
 ## 0.7.0 — 2026-10-12
 
 * Dashboard improvements
