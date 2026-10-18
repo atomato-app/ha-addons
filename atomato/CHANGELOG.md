@@ -1,3 +1,8 @@
+## 0.7.2 — 2026-10-18
+
+* New agentic flows for the help view
+* Improvements in the automations changes history view
+
 ## 0.7.1 — 2026-10-14
 
 * Climate element improvements
