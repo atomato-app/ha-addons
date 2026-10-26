@@ -1,3 +1,7 @@
+## 0.7.3 — 2026-10-26
+
+* Fix for to see relevant Zigbee logs during debugging session
+
 ## 0.7.2 — 2026-10-18
 
 * New agentic flows for the help view
