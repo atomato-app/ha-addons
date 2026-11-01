@@ -1,3 +1,7 @@
+## 0.7.4 — 2026-11-01
+
+* Support for login when opening the adjusting page from the mobile app
+
 ## 0.7.3 — 2026-10-26
 
 * Fix for to see relevant Zigbee logs during debugging session
