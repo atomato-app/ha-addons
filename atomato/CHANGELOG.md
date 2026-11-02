@@ -1,3 +1,8 @@
+## 0.7.5 — 2026-11-02
+
+* Adjustable height of elements
+* Graph element for dashboard
+
 ## 0.7.4 — 2026-11-01
 
 * Support for login when opening the adjusting page from the mobile app
