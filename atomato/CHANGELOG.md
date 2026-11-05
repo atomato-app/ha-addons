@@ -1,3 +1,8 @@
+## 0.7.6 — 2026-11-05
+
+* Agent capabilities improved
+* Setup portal supporting functions
+
 ## 0.7.5 — 2026-11-02
 
 * Adjustable height of elements
