@@ -41,9 +41,6 @@
       "read_only": true
     }
   ],
-  "services": [
-    "mqtt:want"
-  ],
   "options": {
     "beer": true,
     "z2m_base_topic": "zigbee2mqtt"
