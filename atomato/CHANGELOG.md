@@ -1,3 +1,9 @@
+## 0.7.7 — 2026-11-06
+
+* Fix of the bug where Atomato would turn off Zigbee2MQTT manually enabled "permit join"
+* Adding a Zigbee device flow improved
+* Agent capabilities improved
+
 ## 0.7.6 — 2026-11-05
 
 * Agent capabilities improved
