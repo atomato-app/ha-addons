@@ -1,3 +1,8 @@
+## 0.7.8 — 2026-11-08
+
+* Navigation fixes for mobile app
+* Improvements for adding Zigbee devices flow
+
 ## 0.7.7 — 2026-11-06
 
 * Fix of the bug where Atomato would turn off Zigbee2MQTT manually enabled "permit join"
