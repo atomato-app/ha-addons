@@ -1,3 +1,7 @@
+## 0.7.9 — 2026-11-09
+
+* Caching/peformance improvements
+
 ## 0.7.8 — 2026-11-08
 
 * Navigation fixes for mobile app
