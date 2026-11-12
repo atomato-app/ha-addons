@@ -1,3 +1,9 @@
+## 0.8.0 — 2026-11-12
+
+* Dashboard locking feature
+* Smoother dashboard loading
+* Hidden entities filter for MCP
+
 ## 0.7.9 — 2026-11-09
 
 * Caching/peformance improvements
