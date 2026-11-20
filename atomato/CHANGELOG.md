@@ -1,3 +1,9 @@
+## 0.8.1 — 2026-11-20
+
+* No longer persisting user preferences in the local git
+* Lock menu improvements
+* Graph for Sun entity
+
 ## 0.8.0 — 2026-11-12
 
 * Dashboard locking feature
