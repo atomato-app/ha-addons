@@ -1,3 +1,9 @@
+## 0.8.2 — 2026-11-23
+
+* New improvements of the maintenance view
+* Improved websocket handling
+* Fix for dashboard tab text/icon showing when shouldn't
+
 ## 0.8.1 — 2026-11-20
 
 * No longer persisting user preferences in the local git
