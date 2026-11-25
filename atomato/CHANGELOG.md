@@ -1,3 +1,10 @@
+## 0.8.5 — 2026-11-25
+
+* Devices and automations registry for tooling
+* Entities and devices rename function
+* Cleaning up dashboards on removing users
+* Pinning the installation better for tigher security
+
 ## 0.8.2 — 2026-11-23
 
 * New improvements of the maintenance view
